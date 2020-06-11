@@ -39,7 +39,10 @@ $(document).ready(function () {
 
     })();
     // Slider
-
+    $('#toggle').click(function () {
+        $(this).toggleClass('active');
+        $('#overlay').toggleClass('open');
+    });
     $('.menuToggle').click(function () {
 
         $('.wrapper').toggleClass('mm-open');
