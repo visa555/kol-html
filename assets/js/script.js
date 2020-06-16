@@ -18,6 +18,7 @@ $(document).ready(function () {
         if (sliders) {
             for (var i = 0, len = sliders.length; i < len; i++) {
                 var slider = sliders[i];
+                var autoplay = slider.hasAttribute("autoplay") ? true : false
                 if (slider.classList.contains("-togrid")) {
                     var flkty = new Flickity(slider, {
                         cellAlign: "left",
@@ -27,11 +28,13 @@ $(document).ready(function () {
                         watchCSS: true
                     });
                 } else {
+
                     var flkty = new Flickity(slider, {
                         cellAlign: "left",
                         contain: true,
                         wrapAround: true,
-                        imagesLoaded: true
+                        imagesLoaded: true,
+                        autoPlay: autoplay
                     });
                 }
             }

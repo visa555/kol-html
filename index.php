@@ -40,7 +40,10 @@
                     </ul>
 
                 </div>
-                <div class="nav-action">
+                <div class="nav-action show-on-mobile">
+                    <a href="" class="btn-link secondary">Sign In</a>
+                </div>
+                <div class="nav-action hide-on-mobile">
                     <a href="" class="btn-link secondary">สมัคร Influencer</a>
 
                     <a href="" class="btn-link accent">เข้าสู่ระบบ</a>
@@ -96,24 +99,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="slider">
-                            <div class="influencer-set">
-                                <div class="item"></div>
-                                <div class="item"></div>
-                                <div class="item"></div>
-                                <div class="item"></div>
-                                <div class="item"></div>
-                            </div>
-                        </div>
-                        <div class="slider">
-                            <div class="influencer-set">
-                                <div class="item"></div>
-                                <div class="item"></div>
-                                <div class="item"></div>
-                                <div class="item"></div>
-                                <div class="item"></div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -124,44 +109,38 @@
                     <div class="slider">
                         <div class="brand-item  row-flex">
                             <div class="brand-gallery">
-                                <img src="assets/images/brand-demo.jpg" alt="">
+                                <img src="assets/images/brand-bara.jpg" alt="">
                             </div>
                             <div class="brand-content">
                                 <h2>
-                                    Gibbins Smooch Lip Mask Pen
+                                    "Be Yourself , Be BARA"
                                 </h2>
                                 <p class="entry-content">
-                                    การเปิดตัวครั้งแรกของ Innovative Lip Mask Pen จากเกาหลี
-                                    ที่ล้ำหน้าด้วยนวัตกรรมและผลลัพธ์ของ ปากฉ่ำ ในข้ามคืน... เจาะกลุ่มเป้าหมายวัยรุ่น
-                                    วัยทำงาน
-                                    เพื่อเผย ริมฝีปากอ่อนเยาว์สุขภาพดี โดยผ่านกลยุทธ์ Multi Tier KOLs Influencer
-                                    Marketing
-                                    ที่
-                                    ผสมผสานการเล่าเรื่องราวของโปรดักและแบรนด์
 
-                                    บอกต่อประสบการณ์สัมผัสแรกของLip Mask Pen แบรนด์แรกในไทย
-                                    ในรูปแบบคอนเท้นท์เฉพาะตัวของKOLs
-                                    ผ่านสื่อที่หลากหลาย เช่น รูปภาพไลฟ์สไตล์ วิดิโอคอนเท้นท์ ฯลฯในไทยและเกาหลี
-                                    .
-                                    แคมเปญนี้ช่วยสร้างการรับรู้แบรนด์ อยากลองใช้ และเกิดกระแสการบอกต่อแบบออแกนิคจากKOL
-                                    อีกต่างหาก!!!
+                                    ไม่มีสาวคนไหน อยากผิวร่วงโรยก่อนวัยจริงมั้ยคะ? BARA จึงจัด 3
+                                    ขั้นตอนล็อคผิวอ่อนเยาว์ที่เป็นแบบเฉพาะของบาระสกินแคร์เท่านั้น คือ STEP1 NATURE-Aura
+                                    Facial Essence , STEP2 REVIVE- Perfection Youth Skin Emulsion , STEP3 PREVENT-Daily
+                                    Moisturizing Sunscreen ทุกขั้นตอนอุดมไปด้วยสารกัดธรรมชาติและปลอดภัย
+                                    ที่ให้ผลลัพธ์ถูกใจสาวๆ อินฟลูเอนเซอร์ เป็นอย่างมาก เพราะช่วยบำรุงผิว ลดริ้วรอย
+                                    ฝ้ากระ ผิวชุ่มชื้นอ่อนเยาว์มีเสน่ห์กว่าที่เคย
+
 
                                 </p>
                                 <ul class="brand-stat">
                                     <li>
-                                        <span class="total">9</span>
+                                        <span class="total">14</span>
                                         <span>Influencers</span>
                                     </li>
                                     <li>
-                                        <span class="total">397K</span>
+                                        <span class="total">3.6M</span>
                                         <span>Audience</span>
                                     </li>
                                     <li>
-                                        <span class="total">243K</span>
+                                        <span class="total">6.5K</span>
                                         <span>Views</span>
                                     </li>
                                     <li>
-                                        <span class="total">41.7K</span>
+                                        <span class="total">20K</span>
                                         <span>Engagement</span>
                                     </li>
                                 </ul>
@@ -176,40 +155,200 @@
                             </div>
                             <div class="brand-content">
                                 <h2>
-                                    Gibbins Smooch Lip Mask Pen
+                                    CHAME' Sye S Plus
                                 </h2>
                                 <p class="entry-content">
-                                    การเปิดตัวครั้งแรกของ Innovative Lip Mask Pen จากเกาหลี
-                                    ที่ล้ำหน้าด้วยนวัตกรรมและผลลัพธ์ของ ปากฉ่ำ ในข้ามคืน... เจาะกลุ่มเป้าหมายวัยรุ่น
-                                    วัยทำงาน
-                                    เพื่อเผย ริมฝีปากอ่อนเยาว์สุขภาพดี โดยผ่านกลยุทธ์ Multi Tier KOLs Influencer
-                                    Marketing
-                                    ที่
-                                    ผสมผสานการเล่าเรื่องราวของโปรดักและแบรนด์
-
-                                    บอกต่อประสบการณ์สัมผัสแรกของLip Mask Pen แบรนด์แรกในไทย
-                                    ในรูปแบบคอนเท้นท์เฉพาะตัวของKOLs
-                                    ผ่านสื่อที่หลากหลาย เช่น รูปภาพไลฟ์สไตล์ วิดิโอคอนเท้นท์ ฯลฯในไทยและเกาหลี
-                                    .
-                                    แคมเปญนี้ช่วยสร้างการรับรู้แบรนด์ อยากลองใช้ และเกิดกระแสการบอกต่อแบบออแกนิคจากKOL
-                                    อีกต่างหาก!!!
+                                    เหล่าอินฟลูเอนเซอร์สนุกกันทั้งวงการ “ท้าเอวเอส” กันถ้วนหน้า บอกต่อ หุ่นสวยสุขภาพดี
+                                    เป็นคุณเป็นคนใหม่ เปลี่ยนไซส์ด้วยตัวคุณเอง! กับCHAME’Sye S Plus
+                                    ตัวช่วยที่ทำให้ภารกิจ เอว S Challenge สำเร็จได้ทุกวัน!!
+                                    ความสนุกสนานบนโลกโซเชียลมีเดีย ถูกจุดประกายโดย13
+                                    อินฟลูเอนเซอร์และถูกแพร่กระจายต่อเนื่องแบบไม่หยุดง่ายๆหลังจากที่ได้ทดลอง CHAME’ Sye
+                                    S Plusกันแล้ว ก็อดท้าเพื่อนโพสต์ โชว์เอวเอสไม่ได้:)
 
                                 </p>
                                 <ul class="brand-stat">
                                     <li>
-                                        <span class="total">9</span>
+                                        <span class="total">13</span>
                                         <span>Influencers</span>
                                     </li>
                                     <li>
-                                        <span class="total">397K</span>
+                                        <span class="total">6.7M</span>
                                         <span>Audience</span>
                                     </li>
                                     <li>
-                                        <span class="total">243K</span>
+                                        <span class="total">260K</span>
                                         <span>Views</span>
                                     </li>
                                     <li>
-                                        <span class="total">41.7K</span>
+                                        <span class="total">145K</span>
+                                        <span>Engagement</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="slider">
+                        <div class="brand-item  row-flex">
+                            <div class="brand-gallery">
+                                <img src="assets/images/brand-nnex.jpg" alt="">
+                            </div>
+                            <div class="brand-content">
+                                <h2>
+                                    NNEX SERUM
+                                </h2>
+                                <p class="entry-content">
+                                    NNEX Serum เซรั่มนวัตกรรมใหม่จากฝรั่งเศส ที่ถูกพูดถึงบน Content บน YouTube
+                                    และกระจายต่ออย่างรวดเร็ว เร็วพอๆกับ “ความรวดเร็วในการซึมเข้าผิว” เนื้อครีมเข้มข้น
+                                    ประสิทธิภาพสูง แต่เนื้อบางเบา พร้อมทำงานร่วมกับเทคโนโลยีเฉพาะของ เน็กซ์
+                                    ที่ช่วยให้ผิวอ่อนเยาว์ ทั้งยังปกป้องผิวให้แข็งแรงจาก ฝุ่น ควัน มลภาวะต่างๆ!!
+                                    ดีขนาดนี้
+                                    อินฟลูเอนเซอร์บนยูทูปต้องขอกระซิบต่อให้อินฟลูเอนเซอร์แพลตฟอร์มอื่นต้องรีบไปตามลองดู!!
+
+                                </p>
+                                <ul class="brand-stat">
+                                    <li>
+                                        <span class="total">3</span>
+                                        <span>Influencers</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">1.4M</span>
+                                        <span>Audience</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">735K</span>
+                                        <span>Views</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">39K</span>
+                                        <span>Engagement</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="slider">
+                        <div class="brand-item  row-flex">
+                            <div class="brand-gallery">
+                                <img src="assets/images/brand-macha.jpg" alt="">
+                            </div>
+                            <div class="brand-content">
+                                <h2>
+                                    MACCHA Revitalizing Overnight Mask
+                                </h2>
+                                <p class="entry-content">
+                                    คุณอาจเคย กินชาเขียว ดื่มชาเขียว แต่คุณเคยมาส์กหน้าด้วยชาเขียวหรือยัง?!
+
+                                    Overnight Mask ครั้งนี้ไม่ธรรมดา
+                                    เพราะท้าเหล่าเหล่าอินฟลูเอนเซอร์ปลุกชีวิตผิวที่ออ่อนล้า ด้วย Night Routine
+                                    ที่ทุกคนห้ามพลาด นั่นคือมาส์กหน้าชาเขียวอูจิ ส่งตรงจากญี่ปุ่น
+                                    ซึ่งได้รับการยอมรับว่าเป็น สุดยอดชาเขียวที่เรียกว่าเป็น
+                                    “ยอด”ของคุณภาพเน้นๆที่มีที่มาหลายพันปี
+
+                                    เหล่าอินฟลูเอนเซอร์ที่ได้ทดลองใช้ และผู้ติดตามของพวกเขาที่ได้ทดลองซื้อตาม
+                                    ต่างบอกเสียงเดียวกันว่า “เริ่ด!” ผิวแข็งแรงอย่างปลอดภัย ใช้แล้วใช้อีก!!
+                                    แค่ได้ลองใช้ก็ต้องกล่าวว่า …. “ I Can Not Live Without Maccha !!” จริงๆ!!
+
+
+                                </p>
+                                <ul class="brand-stat">
+                                    <li>
+                                        <span class="total">19</span>
+                                        <span>Influencers</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">6.6M</span>
+                                        <span>Audience</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">155K</span>
+                                        <span>Views</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">73K</span>
+                                        <span>Engagement</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="slider">
+                        <div class="brand-item  row-flex">
+                            <div class="brand-gallery">
+                                <img src="assets/images/brand-demo.jpg" alt="">
+                            </div>
+                            <div class="brand-content">
+                                <h2>
+                                    อาม่าชวนกินข้าวแช่ S&P
+                                </h2>
+                                <p class="entry-content">
+                                    ดับหายคลายร้อนกันทุกที่ กับข้าวแช่สูตรชาววัง จาก S&P
+                                    ในช่วงเทศกาลข้าวแช่ Summer Rice Festival งานนี้ อาม่าใจดี พาคุณเบ๊นหลานชาย
+                                    (และพวกเรา แฟนคลับ^^) ไปชิมเมนูเซท ข้าวแช่ และวิธีกิน ที่หลายคนไม่รู้มาก่อน!!!!
+                                    บอกเลยว่าเหมาะกับการพาคนที่บ้านไปเติมความอร่อย และสดชื่นมากจริงๆ
+                                    และยิ่งแนะนำโดยอาม่าที่น่ารักของเรา ทำให้คลิปนี้สามารถส่งมอบ เมนูห้ามพลาด
+                                    ให้เราอยากไปลิ้มลอง และความอบอุ่น น่ารัก ของอาม่าที่จะมีตลอดไป
+
+
+                                </p>
+                                <ul class="brand-stat">
+                                    <li>
+                                        <span class="total">2</span>
+                                        <span>Influencers</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">19M</span>
+                                        <span>Audience</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">464K</span>
+                                        <span>Views</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">159K</span>
+                                        <span>Engagement</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="slider">
+                        <div class="brand-item  row-flex">
+                            <div class="brand-gallery">
+                                <img src="assets/images/brand-demo.jpg" alt="">
+                            </div>
+                            <div class="brand-content">
+                                <h2>
+                                    Travel Butler ผู้ช่วยที่ดีที่สุด Music Marketing (Polycat)Product CHAME' Sye S Plus
+                                </h2>
+                                <p class="entry-content">
+                                    หลังจากได้เคยท้าให้เที่ยวไปกับ Siam Orchard Group
+                                    ผู้ช่วยที่ดีที่สุดในการท่องเที่ยวจนเป็นที่ติดใจของTravel Blogger แล้ว
+                                    รอบนี้เพิ่มความสนุกมากขึ้นเมื่อทางสยามออร์เชิร์ด
+                                    มีการนำเสนอเซอร์วิสใหม่ๆที่น่าสนใจสำหรับกลุ่มวัยทำงานคนรุ่นใหม่
+                                    จึงเป็นที่มาของแคมเปญ Music Video ที่แต่งเพลงขึ้นใหม่โดยPolycat วงดนตรีชื่อดังของไทย
+                                    ที่ถูกใจกลุ่มเป้าหมายสุดๆ และนำแสดงโดยนักแสดงฝีมือดีที่คุณต้องหลงรัก คุณคริณ
+                                    และคุณเบสท์ จนเพลงฮิตติดชาร์ตทั่วบ้านทั่วเมือง!!
+
+                                </p>
+                                <ul class="brand-stat">
+                                    <li>
+                                        <span class="total">3</span>
+                                        <span>Influencers</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">1.7M</span>
+                                        <span>Audience</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">6.3M</span>
+                                        <span>Views</span>
+                                    </li>
+                                    <li>
+                                        <span class="total">48K</span>
                                         <span>Engagement</span>
                                     </li>
                                 </ul>
@@ -279,16 +418,17 @@
             <div class="info">
                 <h2>Influencer</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-                    ut
-                    labore et dolore magna aliquyam erat,
+                    สนุกกับการสร้างคอนเท้นท์สไตล์คุณ ร่วมกับแบรนด์ชั้นนำมากมาย
+                    ทั้งในไทยและต่างประเทศ B VIRAL HUB เชื่อมต่อคุณและแบรนด์ ได้แล้ววันนี้..
+                    ง่ายแค่เพียงคลิก !!
+
                 </p>
                 <a href="" class="btn-link secondary">สมัครอินฟลูเอนเซอร์ ที่นี่</a>
             </div>
         </div>
         <div class="our-client -p60 text-center">
             <div class="site-container">
-                <h3>OUR CLIENTS ลูกค้าส่วนหนึ่งของครอบครัวB VIRAL HUB </h3>
+                <h3>OUR CLIENTS ลูกค้าส่วนหนึ่งของครอบครัว B VIRAL HUB </h3>
                 <p>
                     ขอขอบคุณลูกค้าของเราที่ไว้ใจและได้ร่วมโปรเจคกันกับเหล่าKOLsและInfluencerเพื่อเกิด Brand Love
                     ในระดับต่างๆมากมาย โดยครอบคลุมหลากหลายธุรกิจ เช่น ความสวยงาม เครื่องสำอางค์ แฟชั่น อสังหาริมทรัพย์
@@ -324,23 +464,23 @@
                 <div class="footer-signup site-grid -d2">
                     <div class="column">
                         <span class="header">
-                            for INFLUENCERS
+                            For INFLUENCERS
                         </span>
                         <p>
                             ANYONE CAN BE A CREATOR AND
                             GO GLOBAL
                         </p>
-                        <a href="" class="btn-link cta">สร้างแคมเปญ Influencer</a>
+                        <a href="" class="btn-link cta">เข้าระบบ Influencer</a>
                     </div>
                     <div class="column">
                         <span class="header">
-                            for BRANDS
+                            For BRAND / MARKETER
                         </span>
                         <p>
                             ONE-STOP SOLUTION
                             FOR INFLUENCER MARKETING
                         </p>
-                        <a href="" class="btn-link cta">สร้างแคมเปญ Influencer</a>
+                        <a href="" class="btn-link cta">สร้างแคมเปญ Influencer </a>
                     </div>
                 </div>
                 <div class="footer-sitemap row-flex -pt60">

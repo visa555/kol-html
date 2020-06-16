@@ -118,11 +118,11 @@ body {
 }
 
 .brand-content {
-  padding-top: 50px;
-  padding-left: 30px;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
 
   .entry-content {
-    width: 90%;
     color: #888888;
   }
 }
@@ -351,12 +351,10 @@ body {
 }
 
 .row-flex {
-  display: block;
-}
-
-.row-flex {
   display: flex;
 }
+
+
 
 @media (min-width: 990px) {
   .row-flex {
@@ -663,6 +661,7 @@ $space-d: 30px;
   }
 
   @media (min-width: 768px) {
+
     &.-m1\.2,
     &.-m1\.4 {
       margin-right: -#{$space-d/2};
@@ -976,37 +975,25 @@ $link-text: #eeeeee;
     left: 0;
 
     background: rgba(248, 80, 50, 0);
-    background: -moz-linear-gradient(
-      top,
-      rgba(248, 80, 50, 0) 0%,
-      rgba(34, 34, 34, 1) 100%
-    );
-    background: -webkit-gradient(
-      left top,
-      left bottom,
-      color-stop(0%, rgba(248, 80, 50, 0)),
-      color-stop(100%, rgba(34, 34, 34, 1))
-    );
-    background: -webkit-linear-gradient(
-      top,
-      rgba(248, 80, 50, 0) 0%,
-      rgba(34, 34, 34, 1) 100%
-    );
-    background: -o-linear-gradient(
-      top,
-      rgba(248, 80, 50, 0) 0%,
-      rgba(34, 34, 34, 1) 100%
-    );
-    background: -ms-linear-gradient(
-      top,
-      rgba(248, 80, 50, 0) 0%,
-      rgba(34, 34, 34, 1) 100%
-    );
-    background: linear-gradient(
-      to bottom,
-      rgba(248, 80, 50, 0) 0%,
-      rgba(34, 34, 34, 1) 100%
-    );
+    background: -moz-linear-gradient(top,
+        rgba(248, 80, 50, 0) 0%,
+        rgba(34, 34, 34, 1) 100%);
+    background: -webkit-gradient(left top,
+        left bottom,
+        color-stop(0%, rgba(248, 80, 50, 0)),
+        color-stop(100%, rgba(34, 34, 34, 1)));
+    background: -webkit-linear-gradient(top,
+        rgba(248, 80, 50, 0) 0%,
+        rgba(34, 34, 34, 1) 100%);
+    background: -o-linear-gradient(top,
+        rgba(248, 80, 50, 0) 0%,
+        rgba(34, 34, 34, 1) 100%);
+    background: -ms-linear-gradient(top,
+        rgba(248, 80, 50, 0) 0%,
+        rgba(34, 34, 34, 1) 100%);
+    background: linear-gradient(to bottom,
+        rgba(248, 80, 50, 0) 0%,
+        rgba(34, 34, 34, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f85032', endColorstr='#222222', GradientType=0);
   }
 }
@@ -1015,17 +1002,19 @@ $link-text: #eeeeee;
   .site-logo {
     margin-left: 20px;
   }
+
   .site-header {
     background-color: #fdcd06;
     height: 90px;
     border-bottom: 1px solid #caa023;
   }
+
   .brand-stat {
     padding: 0;
     text-transform: uppercase;
 
     span {
-      font-size: 10px;
+      font-size: 8px;
       display: block;
     }
 
@@ -1040,7 +1029,7 @@ $link-text: #eeeeee;
       border-radius: 4px;
       list-style: none;
       text-align: center;
-      width: 80px;
+      width: 60px;
       background-color: #f2f2f2;
       color: #222222;
 
@@ -1076,12 +1065,25 @@ $link-text: #eeeeee;
   .show-on-mobile {
     display: none !important;
   }
+
+  .brand-content {
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    .entry-content {
+      width: 90%;
+      color: #888888;
+    }
+  }
+
 }
 
 @media (max-width: 991px) {
   .hide-on-mobile {
     display: none !important;
   }
+
   .influencer-set {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -1089,6 +1091,7 @@ $link-text: #eeeeee;
     grid-gap: 20px;
     height: 350px;
   }
+
   .hero-section .intro {
     flex-shrink: 0;
     width: 100%;
@@ -1114,6 +1117,10 @@ $link-text: #eeeeee;
   .brand-gallery {
     width: 100%;
     text-align: center;
+
+    img {
+      max-width: 100%;
+    }
   }
 }
 
@@ -1267,6 +1274,7 @@ $link-text: #eeeeee;
     opacity: 0;
     left: 20%;
   }
+
   100% {
     opacity: 1;
     left: 0;
